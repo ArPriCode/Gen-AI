@@ -288,7 +288,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 <div align="center">
 
-**Made with ❤️ for the AI learning community**
+**Made with for the AI learning community**
 
 [![Back to Top](https://img.shields.io/badge/↑-Back%20to%20Top-blue)](#-generative-ai--complete-learning-repository)
 
